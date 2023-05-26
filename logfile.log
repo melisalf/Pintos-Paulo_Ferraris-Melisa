@@ -1,0 +1,88 @@
+[2023-05-25 20:51:25] [ ERROR] [OdontologoDaoH2:40] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42102-214]
+[2023-05-25 20:51:25] [ ERROR] [OdontologoDaoH2:40] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42102-214]
+[2023-05-25 20:51:25] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 20:51:25] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 20:52:16] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 20:52:16] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 20:52:16] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 20:52:16] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 21:06:05] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:06:05] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:06:05] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 21:06:05] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 21:16:56] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:16:56] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:16:56] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 21:16:56] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 21:17:53] [ INFO ] [OdontologoDaoH2:75] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:17:53] [ INFO ] [OdontologoDaoH2:75] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:17:53] [ INFO ] [OdontologoDaoH2:26] Listado de todos los Odotologos: []
+[2023-05-25 21:17:53] [ INFO ] [OdontologoDaoH2:28] Lista De Odontologos: []
+[2023-05-25 21:19:18] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:19:18] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:19:18] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 21:19:18] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 21:22:39] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:22:39] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:24:33] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:24:33] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:24:33] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 21:24:33] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 21:30:49] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:30:49] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:30:49] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 21:30:49] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 21:34:39] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:34:39] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:34:39] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 21:34:39] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 21:35:59] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:35:59] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:35:59] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 21:35:59] [ INFO ] [OdontologoDaoH2:79] Lista De Odontologos: []
+[2023-05-25 21:36:41] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:36:41] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:36:41] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 21:46:25] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:46:25] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:47:57] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Juan - Apellido: Perez - Matricula: 1
+[2023-05-25 21:47:57] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Maria - Apellido: Lopez - Matricula: 2
+[2023-05-25 21:47:57] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 22:03:21] [ ERROR] [OdontologoDaoH2:40] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-214]
+[2023-05-25 22:03:21] [ ERROR] [OdontologoDaoH2:56] No se pudo cerrar la conexion: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:03:43] [ ERROR] [OdontologoDaoH2:40] Nombre de usuario ó password incorrecto
+Wrong user name or password [28000-214]
+[2023-05-25 22:03:43] [ ERROR] [OdontologoDaoH2:56] No se pudo cerrar la conexion: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:08:23] [ ERROR] [OdontologoDaoH2:40] Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42102-214]
+[2023-05-25 22:09:40] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312
+[2023-05-25 22:12:59] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 22:14:47] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 22:15:08] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 22:15:30] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 22:15:38] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 22:15:50] [ INFO ] [OdontologoDaoH2:77] Listado de todos los Odotologos: []
+[2023-05-25 22:22:08] [ INFO ] [OdontologoDaoH2:79] Listado de todos los Odotologos: []
+[2023-05-25 22:24:09] [ INFO ] [OdontologoDaoH2:79] Listado de todos los Odotologos: []
+[2023-05-25 22:28:30] [ INFO ] [OdontologoDaoH2:78] Listado de todos los Odotologos: []
+[2023-05-25 22:40:58] [ INFO ] [OdontologoDaoH2:78] Listado de todos los Odotologos: []
+[2023-05-25 22:41:11] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312
+[2023-05-25 22:41:18] [ INFO ] [OdontologoDaoH2:78] Listado de todos los Odotologos: [Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312]
+[2023-05-25 22:54:45] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 2 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312
+[2023-05-25 22:54:45] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 3 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312
+[2023-05-25 22:54:53] [ INFO ] [OdontologoDaoH2:78] Listado de todos los Odotologos: [Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312, Id: 2 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312, Id: 3 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312]
+[2023-05-25 23:01:16] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312
+[2023-05-25 23:01:16] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 2 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312
+[2023-05-25 23:01:46] [ INFO ] [OdontologoDaoH2:78] Listado de todos los Odotologos: [Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312, Id: 2 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312]
+[2023-05-25 23:11:10] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 3 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312
+[2023-05-25 23:11:10] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 4 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312
+[2023-05-25 23:11:18] [ INFO ] [OdontologoDaoH2:78] Listado de todos los Odotologos: [Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312, Id: 2 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312, Id: 3 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312, Id: 4 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312]
+[2023-05-25 23:11:53] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312
+[2023-05-25 23:11:53] [ INFO ] [OdontologoDaoH2:38] Odontologo Registrado: Id: 2 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312
+[2023-05-25 23:11:56] [ INFO ] [OdontologoDaoH2:78] Listado de todos los Odotologos: [Id: 1 - Nombre: Nombre - Apellido: Apellido - Matricula: 312312, Id: 2 - Nombre: Nombres - Apellido: Apellidos - Matricula: 31332312]
